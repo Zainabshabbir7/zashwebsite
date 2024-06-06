@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap'); 
+body {
+    font-family: 'Poppins', sans-serif;
+}
+.navbar{
+    background-color: rgb(205, 109, 7);
+    color: aliceblue;
+}
+.navbar-brand{
+    padding-left: 25px;
+   font-weight: 500;
+}
+
+.hero-section {
+    display: flex;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    align-items: center;
+    padding: 0 10%
+}
+.container{
+    text-align: center;
+    margin-bottom: 40px;
+   color: beige;
+   
+}
+
